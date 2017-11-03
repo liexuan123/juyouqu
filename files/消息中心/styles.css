@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:977px;
+  width:986px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -4574,8 +4574,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:421px;
-  height:16px;
+  width:430px;
+  height:60px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -4583,20 +4583,22 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  line-height:20px;
 }
 #u4052 {
   border-width:0px;
   position:absolute;
   left:556px;
-  top:325px;
-  width:421px;
-  height:16px;
+  top:320px;
+  width:430px;
+  height:60px;
+  line-height:20px;
 }
 #u4053 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:421px;
-  white-space:nowrap;
+  width:430px;
+  word-wrap:break-word;
 }
