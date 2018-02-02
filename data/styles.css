@@ -7,6 +7,32 @@
   text-align:center;
   line-height:normal;
 }
+.ellipse {
+}
+._图片 {
+  color:#000000;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+._复选框 {
+  text-align:left;
+}
+._单选按钮 {
+  text-align:left;
+}
+._水平线 {
+}
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -48,6 +74,10 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._文本段落 {
   text-align:left;
 }
@@ -62,25 +92,38 @@
   text-align:center;
   line-height:normal;
 }
-._图片 {
+.sticky_3 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+._图片1 {
 }
 .box_1 {
 }
-._图片1 {
-  color:#FF0000;
+.box_11 {
 }
-._图片2 {
-  color:#000000;
-}
-.label {
-  font-size:14px;
-  text-align:left;
-}
-.ellipse {
-}
-.image {
+.icon {
 }
 .line {
+}
+.arrow {
+}
+.box_2 {
+}
+.image {
+  color:#000000;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.image1 {
 }
 .placeholder {
 }
@@ -89,9 +132,52 @@
 .primary_button {
   color:#FFFFFF;
 }
-.box_2 {
+._图片2 {
+  color:#FF0000;
+}
+.box_3 {
+}
+.box_31 {
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状1 {
+}
+._文本框1 {
+  color:#000000;
+  text-align:left;
+}
+._图片3 {
+  color:#000000;
+}
+._图片4 {
+  color:#000000;
 }
 .label1 {
   font-size:14px;
   text-align:left;
+}
+._文本段落2 {
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+._文本段落3 {
+  text-align:left;
+}
+._形状2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
+._下拉列表框 {
+  color:#000000;
+  text-align:left;
+}
+._垂直线 {
 }
