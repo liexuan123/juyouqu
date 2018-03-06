@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1370px;
+  width:1390px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1464,8 +1464,8 @@
 #u1010 {
   border-width:0px;
   position:absolute;
-  left:719px;
-  top:429px;
+  left:922px;
+  top:484px;
   width:20px;
   height:20px;
 }
@@ -1545,4 +1545,29 @@
   top:0px;
   width:363px;
   white-space:nowrap;
+}
+#u1016_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:20px;
+  height:20px;
+}
+#u1016 {
+  border-width:0px;
+  position:absolute;
+  left:1370px;
+  top:194px;
+  width:20px;
+  height:20px;
+}
+#u1017 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:16px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
