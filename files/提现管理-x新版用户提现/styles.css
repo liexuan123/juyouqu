@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1187px;
+  width:1090px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1249,7 +1249,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:203px;
   height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1267,7 +1267,7 @@
   position:absolute;
   left:887px;
   top:160px;
-  width:300px;
+  width:203px;
   height:50px;
 }
 #u1468 {
@@ -1275,7 +1275,7 @@
   position:absolute;
   left:2px;
   top:17px;
-  width:296px;
+  width:199px;
   word-wrap:break-word;
 }
 #u1469_div {
@@ -1283,7 +1283,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:203px;
   height:70px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1301,7 +1301,7 @@
   position:absolute;
   left:887px;
   top:209px;
-  width:300px;
+  width:203px;
   height:70px;
 }
 #u1470 {
@@ -1309,7 +1309,7 @@
   position:absolute;
   left:2px;
   top:27px;
-  width:296px;
+  width:199px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -1386,7 +1386,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:203px;
   height:70px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1404,7 +1404,7 @@
   position:absolute;
   left:887px;
   top:278px;
-  width:300px;
+  width:203px;
   height:70px;
 }
 #u1476 {
@@ -1412,7 +1412,7 @@
   position:absolute;
   left:2px;
   top:27px;
-  width:296px;
+  width:199px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -1484,16 +1484,25 @@
   word-wrap:break-word;
 }
 #u1481 {
+  border-width:0px;
   position:absolute;
   left:52px;
   top:400px;
+  width:1010px;
+  height:470px;
+  overflow:hidden;
 }
 #u1481_state0 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
   width:1010px;
-  height:446px;
+  height:470px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u1481_state0_content {
@@ -3260,12 +3269,17 @@
   white-space:nowrap;
 }
 #u1481_state1 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
   width:1010px;
-  height:446px;
+  height:470px;
   visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u1481_state1_content {
