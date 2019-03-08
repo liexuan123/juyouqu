@@ -169,6 +169,9 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
 .flow_shape {
 }
 .shape1 {
@@ -265,6 +268,10 @@
 }
 .box_12 {
 }
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
 ._分割线 {
 }
 ._次按钮（动作列表） {
@@ -293,6 +300,10 @@
 }
 ._形状2 {
 }
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 ._水平线1 {
 }
 ._文本框1 {
@@ -301,6 +312,9 @@
   font-style:normal;
   color:#000000;
   text-align:left;
+}
+._文本链接1 {
+  color:#0000FF;
 }
 ._图片3 {
   color:#000000;
@@ -315,7 +329,7 @@
 ._图片4 {
   color:#000000;
 }
-.label1 {
+.label2 {
   font-family:'PingFang SC Medium', 'PingFang SC';
   font-weight:400;
   font-style:normal;
